@@ -5,12 +5,12 @@
 
 |First name | Last Name |
 |--- | --- |
-| Asgedom | Hailemariam |
-| Bisrat | Tegegne |
-| Fekade | Tegeghe |
-| Eshete | Fente |
-| Beimnet | Tesfaye |
-| Anu | Poudyal |
+| Asgedom.H|
+| Bisrat.T|
+| Fekade.T|
+| Eshete.F|
+| Beimnet.T|
+| Anu.P |
 
 <h1>Getting started</h1>
 <p> ** To get to Node server running locally:</p>
