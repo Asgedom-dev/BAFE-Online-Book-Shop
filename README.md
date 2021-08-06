@@ -3,8 +3,8 @@
 
 <h1>GROUP MEMBERS</h1>
 
-|First name | Last Name |
-|--- | --- |
+|Name|
+|--- |
 | Asgedom.H|
 | Bisrat.T|
 | Fekade.T|
