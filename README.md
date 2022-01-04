@@ -12,11 +12,6 @@
   <li>run html</li>
 </ul>
 
-<h1> Admin Login </h1>
-
-<p>username: username</p>
-<p>password: password</p>
-
 <h1> Code Overview </h1>
 <h3>dependencies</h3>
 <p><a href = "https://www.npmjs.com/package/express">expressjs</a> - The server for handling and routing HTTP requests </p>
