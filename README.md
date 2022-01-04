@@ -35,4 +35,4 @@ Requests are authenticated using the Authorization header with a valid JWT.
 <p></p>
 <p></p>
 <p></p>
-<p><img src="https://msd.miu.edu/wp-content/uploads/msd-logo-6-420x75-1.png" align="center"></p>
+
