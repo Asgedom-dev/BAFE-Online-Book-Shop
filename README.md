@@ -1,9 +1,6 @@
 # BAFE-Online-Book-Shop
 <p><img src="https://miro.medium.com/max/365/1*Jr3NFSKTfQWRUyjblBSKeg.png"></p>
 
-<h1>GROUP MEMBERS</h1>
-
-|Name||--- || Asgedom.H|| Bisrat.T|| Fekade.T|| Eshete.F|| Beimnet.T|| Anu.P |
 
 <h1>Getting started</h1>
 <p> ** To get to Node server running locally:</p>
